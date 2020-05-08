@@ -431,7 +431,7 @@ Replace localhost:7071 with the above URL for both of the following
 values in your application settings and local.settings.json.
 
 **Note:** CONFIG\_ENDPOINT\_URI ends with &lt;URL&gt;/api.config, and
-ROUTER\_FUNCITON\_ENDPOINT ends with &lt;URL&gt;/api as shown in the
+ROUTER\_FUNCTION\_ENDPOINT ends with &lt;URL&gt;/api as shown in the
 example below:
 
 CONFIG\_ENDPOINT\_URI
@@ -439,7 +439,7 @@ CONFIG\_ENDPOINT\_URI
 ```CONFIG_ENDPOINT_URI":"https://https://pinlizfunctionapp.azurewebsites.net/api/config"```
 
 
-ROUTER\_FUNCITON\_ENDPOINT
+ROUTER\_FUNCTION\_ENDPOINT
 
 ```"ROUTER_FUNCTION_ENDPOINT":"https://https://pinlizfunctionapp.azurewebsites.net/api"```
 
