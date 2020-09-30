@@ -1,7 +1,9 @@
-Pinball Lizard:\
-step-by-step game deployment
+Pinball Lizard: 
 
-Mixed reality | Azure gaming
+bit by bit game arrangement 
+
+Blended reality | Azure gaming 
+
 
 Pinball Lizard is an exploration into the possibilities of Windows Mixed Reality headsets using [Azure](https://azure.microsoft.com/en-us/free/), [PlayFab](https://developer.playfab.com/en-US/sign-up), and [Unity](https://store.unity.com/download?ref=personal). Get started deploying this game with the links below.
 
